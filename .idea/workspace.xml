@@ -20,8 +20,137 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b9fbaa3d-c540-4220-9887-fb6b335ad2b2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Day_02/aiml_main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/aiml-0.9.2.dist-info/DESCRIPTION.rst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/aiml-0.9.2.dist-info/INSTALLER" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/aiml-0.9.2.dist-info/LICENSE.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/aiml-0.9.2.dist-info/METADATA" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/aiml-0.9.2.dist-info/RECORD" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/aiml-0.9.2.dist-info/WHEEL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/aiml-0.9.2.dist-info/entry_points.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/aiml-0.9.2.dist-info/metadata.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/aiml-0.9.2.dist-info/top_level.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/aiml/AimlParser.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/aiml/DefaultSubs.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/aiml/Kernel.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/aiml/PatternMgr.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/aiml/Utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/aiml/WordSub.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/aiml/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/aiml/botdata/alice/ai.aiml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/aiml/botdata/alice/alice.aiml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/aiml/botdata/alice/astrology.aiml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/aiml/botdata/alice/atomic.aiml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/aiml/botdata/alice/badanswer.aiml-2.0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/aiml/botdata/alice/biography.aiml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/aiml/botdata/alice/bot.aiml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/aiml/botdata/alice/bot_profile.aiml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/aiml/botdata/alice/client.aiml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/aiml/botdata/alice/client_profile.aiml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/aiml/botdata/alice/computers.aiml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/aiml/botdata/alice/continuation.aiml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/aiml/botdata/alice/date.aiml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/aiml/botdata/alice/default.aiml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/aiml/botdata/alice/drugs.aiml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/aiml/botdata/alice/emotion.aiml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/aiml/botdata/alice/food.aiml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/aiml/botdata/alice/geography.aiml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/aiml/botdata/alice/gossip.aiml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/aiml/botdata/alice/history.aiml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/aiml/botdata/alice/humor.aiml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/aiml/botdata/alice/imponderables.aiml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/aiml/botdata/alice/inquiry.aiml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/aiml/botdata/alice/interjection.aiml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/aiml/botdata/alice/iu.aiml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/aiml/botdata/alice/junktest.text" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/aiml/botdata/alice/knowledge.aiml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/aiml/botdata/alice/literature.aiml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/aiml/botdata/alice/loebner10.aiml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/aiml/botdata/alice/money.aiml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/aiml/botdata/alice/movies.aiml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/aiml/botdata/alice/mp0.aiml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/aiml/botdata/alice/mp1.aiml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/aiml/botdata/alice/mp2.aiml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/aiml/botdata/alice/mp3.aiml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/aiml/botdata/alice/mp4.aiml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/aiml/botdata/alice/mp5.aiml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/aiml/botdata/alice/mp6.aiml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/aiml/botdata/alice/music.aiml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/aiml/botdata/alice/numbers.aiml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/aiml/botdata/alice/personality.aiml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/aiml/botdata/alice/phone.aiml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/aiml/botdata/alice/pickup.aiml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/aiml/botdata/alice/politics.aiml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/aiml/botdata/alice/primeminister.aiml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/aiml/botdata/alice/primitive-math.aiml-2.0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/aiml/botdata/alice/psychology.aiml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/aiml/botdata/alice/reduction.names.aiml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/aiml/botdata/alice/reduction0.safe.aiml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/aiml/botdata/alice/reduction1.safe.aiml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/aiml/botdata/alice/reduction2.safe.aiml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/aiml/botdata/alice/reduction3.safe.aiml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/aiml/botdata/alice/reduction4.safe.aiml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/aiml/botdata/alice/reductions-update.aiml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/aiml/botdata/alice/religion.aiml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/aiml/botdata/alice/salutations.aiml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/aiml/botdata/alice/science.aiml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/aiml/botdata/alice/sex.aiml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/aiml/botdata/alice/sports.aiml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/aiml/botdata/alice/stack.aiml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/aiml/botdata/alice/startup.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/aiml/botdata/alice/stories.aiml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/aiml/botdata/alice/that.aiml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/aiml/botdata/alice/update1.aiml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/aiml/botdata/alice/update_mccormick.aiml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/aiml/botdata/alice/wallace.aiml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/aiml/botdata/alice/xfind.aiml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/aiml/botdata/standard/dev-calendar.aiml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/aiml/botdata/standard/dev-examples.aiml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/aiml/botdata/standard/dev-scripts.aiml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/aiml/botdata/standard/dev-testcases.aiml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/aiml/botdata/standard/dev-translation.aiml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/aiml/botdata/standard/dev-webhelper.aiml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/aiml/botdata/standard/per-drWallace.aiml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/aiml/botdata/standard/startup.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/aiml/botdata/standard/std-65percent.aiml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/aiml/botdata/standard/std-atomic.aiml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/aiml/botdata/standard/std-botmaster.aiml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/aiml/botdata/standard/std-brain.aiml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/aiml/botdata/standard/std-connect.aiml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/aiml/botdata/standard/std-dictionary.aiml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/aiml/botdata/standard/std-disconnect.aiml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/aiml/botdata/standard/std-dont.aiml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/aiml/botdata/standard/std-errors.aiml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/aiml/botdata/standard/std-gender.aiml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/aiml/botdata/standard/std-geography.aiml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/aiml/botdata/standard/std-german.aiml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/aiml/botdata/standard/std-gossip.aiml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/aiml/botdata/standard/std-hello.aiml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/aiml/botdata/standard/std-inactivity.aiml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/aiml/botdata/standard/std-inventions.aiml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/aiml/botdata/standard/std-knowledge.aiml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/aiml/botdata/standard/std-lizards.aiml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/aiml/botdata/standard/std-login.aiml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/aiml/botdata/standard/std-numbers.aiml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/aiml/botdata/standard/std-personality.aiml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/aiml/botdata/standard/std-pickup.aiml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/aiml/botdata/standard/std-politics.aiml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/aiml/botdata/standard/std-profile.aiml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/aiml/botdata/standard/std-religion.aiml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/aiml/botdata/standard/std-robot.aiml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/aiml/botdata/standard/std-sales.aiml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/aiml/botdata/standard/std-sextalk.aiml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/aiml/botdata/standard/std-sports.aiml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/aiml/botdata/standard/std-srai.aiml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/aiml/botdata/standard/std-suffixes.aiml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/aiml/botdata/standard/std-that.aiml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/aiml/botdata/standard/std-turing.aiml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/aiml/botdata/standard/std-yesno.aiml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/aiml/constants.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/aiml/script/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/aiml/script/aimlvalidate.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/aiml/script/bot.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day_02/reg.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day_02/reg.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -188,7 +317,8 @@
       <workItem from="1592751728374" duration="1431000" />
       <workItem from="1599206733685" duration="2929000" />
       <workItem from="1600850673333" duration="10480000" />
-      <workItem from="1601631408835" duration="2866000" />
+      <workItem from="1601631408835" duration="5886000" />
+      <workItem from="1601658963574" duration="790000" />
     </task>
     <servers />
   </component>
@@ -211,25 +341,25 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1601647298399">
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1601657599422">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1280.680@0.0.1536.824" timestamp="1601647298399" />
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1280.680@0.0.1536.824" timestamp="1601657599422" />
     <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1599435825944" />
-    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1601647298398">
+    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1601657599422">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1280.680@0.0.1536.824" timestamp="1601647298398" />
+    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1280.680@0.0.1536.824" timestamp="1601657599422" />
     <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1599435825944" />
-    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1601647298398">
+    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1601657599422">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1280.680@0.0.1536.824" timestamp="1601647298398" />
+    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1280.680@0.0.1536.824" timestamp="1601657599422" />
     <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1599435825944" />
-    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1601647298398">
+    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1601657599422">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1280.680@0.0.1536.824" timestamp="1601647298398" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1280.680@0.0.1536.824" timestamp="1601657599422" />
     <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1599435825944" />
     <state width="1493" height="261" key="GridCell.Tab.1.bottom" timestamp="1600865995561">
       <screen x="0" y="0" width="1536" height="824" />
