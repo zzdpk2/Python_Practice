@@ -1,0 +1,12 @@
+<aiml version="1.0.1" encoing="UTF-8">
+    <category>
+        <pattern>hello</pattern>
+        <template>
+            hello world
+        </template>
+    </category>
+    <category>
+        <pattern>我的名字是李雷</pattern>
+        <template>我叫韩梅梅</template>
+    </category>
+</aiml>
