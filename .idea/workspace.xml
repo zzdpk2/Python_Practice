@@ -20,10 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b9fbaa3d-c540-4220-9887-fb6b335ad2b2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Day_02/basic_chat.aiml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day_02/std-startup.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Day_02/std-startup.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/aiml/Kernel.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/aiml/Kernel.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day_02/basic_chat.aiml" beforeDir="false" afterPath="$PROJECT_DIR$/Day_02/basic_chat.aiml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -192,7 +190,8 @@
       <workItem from="1600850673333" duration="10480000" />
       <workItem from="1601631408835" duration="5886000" />
       <workItem from="1601658963574" duration="790000" />
-      <workItem from="1601713981532" duration="6288000" />
+      <workItem from="1601713981532" duration="6923000" />
+      <workItem from="1601776679191" duration="2188000" />
     </task>
     <servers />
   </component>
@@ -219,26 +218,26 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="512" y="214" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824/1920.0.1280.680@0.0.1536.824" timestamp="1601726415281" />
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1601740550723">
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1601778254920">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1280.680@0.0.1536.824" timestamp="1601657599422" />
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1601740550723" />
-    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1601740550723">
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1280.680@0.0.1536.824" timestamp="1601778254920" />
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1601741993674" />
+    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1601778254920">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1280.680@0.0.1536.824" timestamp="1601657599422" />
-    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1601740550723" />
-    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1601740550723">
+    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1280.680@0.0.1536.824" timestamp="1601778254920" />
+    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1601741993674" />
+    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1601778254920">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1280.680@0.0.1536.824" timestamp="1601657599422" />
-    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1601740550723" />
-    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1601740550723">
+    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1280.680@0.0.1536.824" timestamp="1601778254920" />
+    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1601741993674" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1601778254920">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1280.680@0.0.1536.824" timestamp="1601657599422" />
-    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1601740550723" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1280.680@0.0.1536.824" timestamp="1601778254920" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1601741993674" />
     <state width="1493" height="261" key="GridCell.Tab.1.bottom" timestamp="1601738411355">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -265,7 +264,7 @@
     <SUITE FILE_PATH="coverage/Python_Practice$name.coverage" NAME="name Coverage Results" MODIFIED="1599208041637" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day_01" />
     <SUITE FILE_PATH="coverage/Python_Practice$func_break.coverage" NAME="func_break Coverage Results" MODIFIED="1600861499955" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day_02" />
     <SUITE FILE_PATH="coverage/Python_Practice$func_return.coverage" NAME="func_return Coverage Results" MODIFIED="1600860928955" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day_02" />
-    <SUITE FILE_PATH="coverage/Python_Practice$aiml_main.coverage" NAME="aiml_main Coverage Results" MODIFIED="1601740550717" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day_02" />
+    <SUITE FILE_PATH="coverage/Python_Practice$aiml_main.coverage" NAME="aiml_main Coverage Results" MODIFIED="1601778254914" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day_02" />
     <SUITE FILE_PATH="coverage/Python_Practice$reg.coverage" NAME="reg Coverage Results" MODIFIED="1601647298391" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day_02" />
   </component>
 </project>

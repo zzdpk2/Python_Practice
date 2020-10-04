@@ -9,4 +9,24 @@
         <pattern>我的名字是李雷</pattern>
         <template>我叫韩梅梅</template>
     </category>
+    <category>
+        <pattern>* 想你了</pattern>
+        <template>我也想你了</template>
+    </category>
+    <category>
+        <pattern>* 好 *</pattern>
+        <template>我很好，你呢？</template>
+    </category>
+<!--    <category>-->
+<!--        <pattern>[a-z0-9]*@\w*\.com *</pattern>-->
+<!--        <template>email!</template>-->
+<!--    </category>-->
+    <category>
+        <pattern>^1(3|4|5|6|7|8|9)\d{9}$</pattern>
+        <template>Phone number!</template>
+    </category>
+    <category>
+        <pattern>* are *</pattern>
+        <template>I am fine thank you, and you?</template>
+    </category>
 </aiml>
