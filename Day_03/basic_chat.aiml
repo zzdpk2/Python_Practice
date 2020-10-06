@@ -21,4 +21,50 @@
             </random>
         </template>
     </category>
+
+    <category>
+        <pattern>好想</pattern>
+        <template>
+            <random>
+                <li>我也想你了</li>
+                <li>不要脸</li>
+                <li>上旁边想去</li>
+                <li>你想啥那想</li>
+                <li>你想<star index="2"/>干啥啊</li>
+            </random>
+        </template>
+    </category>
+
+    <category>
+        <pattern>好想*</pattern>
+        <template>
+            <srai>好想</srai>
+        </template>
+    </category>
+
+    <category>
+        <pattern>我是*</pattern>
+        <template>
+            你好啊<set name="username"><star/></set>,很高兴见到你
+        </template>
+    </category>
+
+    <category>
+        <pattern>晚安</pattern>
+        <template>
+            美梦啊,<get name="username"/>, 跟你聊天很愉快,期待下一次
+        </template>
+    </category>
+
+    <category>
+        <pattern>*明星*</pattern>
+        <template>刘德华</template>
+    </category>
+
+    <category>
+        <pattern>我喜欢张学友</pattern>
+        <that>刘德华</that>
+        <template>我也喜欢他</template>
+    </category>
+
 </aiml>
