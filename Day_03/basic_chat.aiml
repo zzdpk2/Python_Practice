@@ -67,4 +67,16 @@
         <template>我也喜欢他</template>
     </category>
 
+    <category>
+        <pattern>*作业*</pattern>
+        <template>好啊，聊聊<set name="topic">作业</set>吧</template>
+    </category>
+
+    <topic name="作业">
+        <category>
+            <pattern>好难啊</pattern>
+            <template>作业好难啊</template>
+        </category>
+    </topic>
+
 </aiml>
