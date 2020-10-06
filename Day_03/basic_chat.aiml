@@ -1,0 +1,13 @@
+<aiml version="1.0.1" encoding="UTF-8">
+<!--    获取模糊匹配位置的关键词-->
+    <category>
+        <pattern>一个*是*吗</pattern>
+        <template>
+<!--            第一个参数是<star index="1"/>,第二个参数是<star index="2"/>-->
+            对对对，你说得对！！一个<star index="1"/>引发了血案
+        </template>
+    </category>
+
+<!--    随机标签-->
+
+</aiml>
