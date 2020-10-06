@@ -9,5 +9,16 @@
     </category>
 
 <!--    随机标签-->
-
+    <category>
+        <pattern>*想*</pattern>
+        <template>
+            <random>
+                <li>我也想你了</li>
+                <li>不要脸</li>
+                <li>上旁边想去</li>
+                <li>你想啥那想</li>
+                <li>你想<star index="2"/>干啥啊</li>
+            </random>
+        </template>
+    </category>
 </aiml>
