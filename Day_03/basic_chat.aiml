@@ -75,8 +75,46 @@
     <topic name="作业">
         <category>
             <pattern>好难啊</pattern>
-            <template>作业好难啊</template>
+            <template>作业真是难啊</template>
+        </category>
+        <category>
+            <pattern>作业怎么做</pattern>
+            <template>你说啥呢，我也不知道</template>
         </category>
     </topic>
+
+
+<!--    隐藏set的内容-->
+    <category>
+        <pattern>我的名字是*</pattern>
+        <template>你好，欢迎来到贪心学院! <think><set name="username1"><star/></set></think></template>
+    </category>
+
+    <category>
+        <pattern>不聊了</pattern>
+        <template>
+            好啊<get name="username1"/>, 下次聊
+        </template>
+    </category>
+
+<!--    匹配其他所有操作-->
+    <category>
+        <pattern>*</pattern>
+        <template>我没太听懂</template>
+    </category>
+
+    <category>
+        <pattern>我喜欢*</pattern>
+        <template>
+            <think>
+                <set name="s"><star/></set>
+                <condition name="s">
+                    <li value="健身">帅啊</li>
+                    <li value="读书">有内涵啊</li>
+                    <li>牛啊</li>
+                </condition>
+            </think>
+        </template>
+    </category>
 
 </aiml>
