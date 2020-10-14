@@ -1,21 +1,27 @@
 def quick_sort(data, start, end) -> None:
-    if start >= end:
+    if start > end:
         return
-    pivot = data[start]
     left = start
-    right = end
+    right = len(data) - 1
+    pivot = data[start]
     while left < right:
-        while left < right and data[right] >= pivot:
+        # if the right value is smaller than the left value, these two elements need to be switched
+        if left < right and data[right] >= pivot:
             right -= 1
+        # temporarily cover the left value from the right value
         data[left] = data[right]
-        while left < right and data[left] <= pivot:
+
+        # if the left value is larger than the right value, these two elements need to be switched
+        if left < right and data[left] <= pivot:
             left += 1
+        # temporarily cover the right value from the left value
         data[right] = data[left]
 
+    # put the pivot to the exact position
     data[right] = pivot
-
+    # recursively sort all the elements
     quick_sort(data, start, left - 1)
-    quick_sort(data, left + 1, end)
+    quick_sort(data, right + 1, end)
 
 
 if __name__ == '__main__':

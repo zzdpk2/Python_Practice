@@ -6,7 +6,7 @@ __date__ = "2020-09-23"
 # 2. continue
 
 i = 1
-while(True):
+while True:
     print(i)
     i += 1
     if i == 100:
