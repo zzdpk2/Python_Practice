@@ -1,9 +1,12 @@
 def quick_sort(data, start, end) -> None:
+    # the terminating condition
     if start > end:
         return
+    # init values
     left = start
     right = len(data) - 1
     pivot = data[start]
+    # start sorting
     while left < right:
         # if the right value is smaller than the left value, these two elements need to be switched
         if left < right and data[right] >= pivot:
