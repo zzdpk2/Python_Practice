@@ -20,11 +20,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b9fbaa3d-c540-4220-9887-fb6b335ad2b2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/import_package.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package_import_practice/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package_import_practice/my_class.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package_import_practice/module.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day_05/my_class.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/import_package.py" beforeDir="false" afterPath="$PROJECT_DIR$/import_package.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package_import_practice/my_class.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day_05/my_class.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,6 +55,11 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Projects\Python_Practice\Day_05" />
+    </key>
   </component>
   <component name="RunManager" selected="Python.my_class">
     <configuration name="aiml_main (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
@@ -202,6 +206,7 @@
       <workItem from="1602140030188" duration="4877000" />
       <workItem from="1602602942943" duration="644000" />
       <workItem from="1602657865622" duration="7734000" />
+      <workItem from="1602832950863" duration="1276000" />
     </task>
     <servers />
   </component>
