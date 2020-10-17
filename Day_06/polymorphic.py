@@ -16,6 +16,16 @@ class Person(Animal):
         print("人走")
 
 
+class Pig(Animal):
+    def run(self):
+        print("猪跑")
+
+
+class Dog(Animal):
+    def run(self):
+        print("狗跑")
+
+
 p = Person()
 p.run()
 
