@@ -12,5 +12,10 @@ class Animal:
 
 
 class Person(Animal):
-    pass
+    def run(self):
+        print("人走")
+
+
+p = Person()
+p.run()
 
