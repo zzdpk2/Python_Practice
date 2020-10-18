@@ -26,6 +26,10 @@ class Dog(Animal):
         print("狗跑")
 
 
-p = Person()
-p.run()
+person = Person()
+person.run()
+pig = Pig()
+pig.run()
+dog = Dog()
+dog.run()
 
