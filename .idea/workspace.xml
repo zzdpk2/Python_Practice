@@ -206,7 +206,8 @@
       <workItem from="1602657865622" duration="7734000" />
       <workItem from="1602832950863" duration="5992000" />
       <workItem from="1602921773621" duration="2768000" />
-      <workItem from="1603002670051" duration="901000" />
+      <workItem from="1603002670051" duration="1529000" />
+      <workItem from="1603033483311" duration="3013000" />
     </task>
     <servers />
   </component>
@@ -291,7 +292,7 @@
     <SUITE FILE_PATH="coverage/Python_Practice$func_return.coverage" NAME="func_return Coverage Results" MODIFIED="1600860928955" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day_02" />
     <SUITE FILE_PATH="coverage/Python_Practice$quick_sort2.coverage" NAME="quick_sort2 Coverage Results" MODIFIED="1602661377403" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day_04" />
     <SUITE FILE_PATH="coverage/Python_Practice$reg__1_.coverage" NAME="reg (1) Coverage Results" MODIFIED="1601995205166" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day_03" />
-    <SUITE FILE_PATH="coverage/Python_Practice$polymorphic.coverage" NAME="polymorphic Coverage Results" MODIFIED="1602921850229" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day_06" />
+    <SUITE FILE_PATH="coverage/Python_Practice$polymorphic.coverage" NAME="polymorphic Coverage Results" MODIFIED="1603034598133" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day_06" />
     <SUITE FILE_PATH="coverage/Python_Practice$quick_sort__1_.coverage" NAME="quick_sort (1) Coverage Results" MODIFIED="1602660052907" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day_04" />
     <SUITE FILE_PATH="coverage/Python_Practice$inherit_order__1_.coverage" NAME="inherit_order (1) Coverage Results" MODIFIED="1602837356537" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day_06" />
     <SUITE FILE_PATH="coverage/Python_Practice$name.coverage" NAME="name Coverage Results" MODIFIED="1599208041637" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day_01" />

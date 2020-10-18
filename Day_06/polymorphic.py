@@ -26,10 +26,47 @@ class Dog(Animal):
         print("狗跑")
 
 
+# person = Person()
+# person.run()
+# pig = Pig()
+# pig.run()
+# dog = Dog()
+# dog.run()
+
+"""
+多态性
+"""
+
+
+def func(obj):
+    obj.run()
+
+
 person = Person()
-person.run()
 pig = Pig()
-pig.run()
 dog = Dog()
-dog.run()
+
+
+func(person)
+func(pig)
+func(dog)
+
+
+class Computer:
+    def usb_insert(self):
+        pass
+
+
+def usb_run(sub_computer):
+    sub_computer.usb_insert()
+
+
+class Mouse(Computer):
+    def usb_insert(self):
+        print("Mouse inserted!")
+
+
+class Keyboard(Computer):
+    def usb_insert(self):
+        print("Keyboard inserted!")
 
