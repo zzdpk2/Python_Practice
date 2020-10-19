@@ -4,6 +4,7 @@
 多态性
 多态 不等于 多态性
 """
+from abc import ABCMeta, abstractclassmethod
 
 
 class Animal:
@@ -52,13 +53,19 @@ func(pig)
 func(dog)
 
 
-class Computer:
+class Computer(metaclass=ABCMeta):
+    @abstractclassmethod
     def usb_insert(self):
         pass
 
 
-def usb_run(sub_computer):
-    sub_computer.usb_insert()
+class ThinkPad(Computer):
+
+    def usb_insert(self):
+        pass
+
+    def usb_run(self, sub_computer):
+        sub_computer.usb_insert()
 
 
 class Mouse(Computer):
@@ -69,4 +76,11 @@ class Mouse(Computer):
 class Keyboard(Computer):
     def usb_insert(self):
         print("Keyboard inserted!")
+
+
+thinkPad = ThinkPad()
+m = Mouse()
+thinkPad.usb_run(m)
+k = Keyboard()
+thinkPad.usb_run(k)
 
