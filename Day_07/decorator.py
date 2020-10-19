@@ -21,7 +21,9 @@ import time
 def runtime_noargs(function_name):
     def wrapper():
         start_time = time.time()
+        print("Before function running!")
         function_name()
+        print("After function running!")
         end_time = time.time()
         print(end_time - start_time)
     return wrapper
@@ -29,6 +31,7 @@ def runtime_noargs(function_name):
 
 @runtime_noargs
 def function_demo1():
+    time.sleep(1)
     print("demo1 is running!")
 
 
